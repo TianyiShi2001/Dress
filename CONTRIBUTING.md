@@ -12,4 +12,5 @@
 
 删除方法参考 https://forums.adobe.com/thread/890607 
 
-Please pay attention to preventing the accidental leakage of personal information. Please check carefully whether the EXIF information is properly handled (such as GPS tags) before you push the photo(s). If you want to delete EXIF please refer to https://forums.adobe.com/thread/890607 
+
+Please be careful to avoid private data breach. GPS information and other details may be stored in EXIF information, so please check carefully whether the EXIF information is properly handled before you push the photo(s). You may want to refer to [this guide](https://forums.adobe.com/thread/890607) to remove EXIF. 
